@@ -1,0 +1,25 @@
+{
+  "name": "Digital Medical Chain",
+  "logoURI": "https://medicalchains.github.io/LogoURL/logo.png",
+  "keywords": [
+      "defi",
+      "DEFI",
+      "yield"
+    ],
+    "timestamp": "2021-07-01T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0xce45dd63ccee92a98d244e7455617ce6fea19ba3",
+      "name": "Digital Medical Chain",
+      "symbol": "DMEC",
+      "decimals": 18,
+      "logoURI": "https://medicalchains.github.io/LogoURL/logo.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
